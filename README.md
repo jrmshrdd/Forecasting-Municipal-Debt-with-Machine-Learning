@@ -1,5 +1,5 @@
 # Forecasting-Municipal-Debt-with-Machine-Learning
-##Sample Image
+
 <img width="656" alt="Image" src="https://github.com/user-attachments/assets/65f26cf7-82a6-4301-b40e-549250289f3e" />
 -------------
 ## 📌 Description   
