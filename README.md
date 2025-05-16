@@ -1,5 +1,7 @@
 # Forecasting-Municipal-Debt-with-Machine-Learning
-
+##Sample Image
+<img width="656" alt="Image" src="https://github.com/user-attachments/assets/65f26cf7-82a6-4301-b40e-549250289f3e" />
+-------------
 ## 📌 Description   
 This project applies machine learning to assess and predict the likelihood of bad debt in municipal financial systems. Using real-world billing and payment data from South African municipalities, the goal is to assist in proactive financial planning and risk mitigation.
 
